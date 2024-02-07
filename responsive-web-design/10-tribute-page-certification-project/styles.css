@@ -15,11 +15,20 @@ body {
     font-size: 4rem;
 }
 
-.main {
+/* .main {
     display: flex;
     justify-content: center;
-}
+} */
 
 .tribute-info {
     max-width: 25%;
+}
+
+ul {
+    text-align: left;
+    max-width: 550px;
+}
+
+.dates {
+    font-weight: bold;
 }
